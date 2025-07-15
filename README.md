@@ -1,12 +1,9 @@
 ## Hi there 👋
 Data enthusiast
-<!--
-**tobiasdonb/tobiasdonb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🌱 I’m currently learning Machine Learning & Deep learning
 - 📫 How to reach me: https://www.linkedin.com/in/tobias-don-bosco-5b0881294/
-- 😄 Pronouns: ...
+- 😄 Pronouns: Male
 - ⚡ Fun fact: Bali boy
 -->
 ### Tech Stack
