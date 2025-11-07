@@ -10,6 +10,8 @@ Data enthusiast
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://iconape.com/wp-content/files/fo/371358/svg/371358.svg" /></a>
   <br>
+   <a href="https://git-scm.com/"><img align="left" alt="Git" title="Git" width="21px" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg" /></a>
+  <br>
   
 ### Github Statistic
 <p align="left">
